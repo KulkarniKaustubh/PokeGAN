@@ -4,7 +4,7 @@ A DCGAN to generate Pokemon. The dataset I have used has ~2800 images shrunk dow
 
 (I have used a smaller dataset as GitHub has a file size limit of 100MB)
 
-The original dataset that consists of 10,000 images can be found [here](https://www.kaggle.com/thedagger/pokemon-generation-one)
+The original dataset that consists of ~11,000 images can be found [here](https://www.kaggle.com/thedagger/pokemon-generation-one)
 
 ## Images
 
