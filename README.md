@@ -56,6 +56,10 @@ Here are a few images generated across a couple of models.
        <img src="results/images/8_norm_adam_lr0.00001_b10.5.png" width="100" height="100">
    </p>
 
+## Images
+
+All images shown above can be found [here](https://github.com/KulkarniKaustubh/PokeGAN/tree/master/results/images)
+
 ## Graphs
 
 The graphs for the different models over 50 epochs can be found [here](https://github.com/KulkarniKaustubh/PokeGAN/tree/master/results/graphs)
